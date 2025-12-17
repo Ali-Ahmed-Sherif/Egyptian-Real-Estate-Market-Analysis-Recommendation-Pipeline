@@ -84,7 +84,8 @@ The insights and tools developed by this project are designed to serve three pri
 
 The entire system is built around a scalable, automated data pipeline, orchestrated by **Apache Airflow** and containerized with **Docker**. The architecture follows the **Medallion Architecture** (Bronze, Silver, Gold layers) to ensure data quality and reliability at every stage.
 
-<img width="2415" height="1113" alt="Pipeline Diagram" src="https://github.com/user-attachments/assets/0d884238-f718-435b-ac27-508cd318c2dd" />
+<img width="2147" height="980" alt="image" src="https://github.com/user-attachments/assets/aa675e5d-0b10-4623-9900-a684585e5419" />
+
 
 ### Data Orchestration with Airflow
 
